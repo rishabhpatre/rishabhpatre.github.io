@@ -1,0 +1,478 @@
+{
+  "profile": {
+    "name": "Rishabh Patre",
+    "role": "Senior Product Manager at Justdial",
+    "email": "rishabhbpatre@gmail.com",
+    "phone": "+919511714436",
+    "linkedin": "https://www.linkedin.com/in/rishabhpatre/",
+    "github": "https://github.com/rishabhpatre",
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFTrxJA_XL7rw/profile-displayphoto-crop_800_800/B56ZuJuF46KgAI-/0/1767542127927?e=1769040000&v=beta&t=WdXKV9N2jDF6dWMOWDUGB26ZtMmmiwf1arHIrHTnQbI"
+  },
+  "summary": [
+    "Senior Product Manager with deep expertise in **AI-driven solutions** and driving both B2C and B2B products, currently leading GenAI initiatives at Justdial.",
+    "Proven track record of driving **product growth and organic traffic** through strategic SEO and data-driven user funnel optimization.",
+    "Technical PM capable of bridging the gap between business goals and engineering, with hands-on experience in **LLMs, Model Context Protocols (MCP), and Python**.",
+    "Successful history of delivering complex **omnichannel and logistics solutions** for global brands including Swiggy, Nykaa, and Skechers."
+  ],
+  "experience": [
+    {
+      "id": "exp1",
+      "role": "Sr. Product Manager - AI and Growth Initiatives",
+      "company": "Justdial Ltd.",
+      "period": "Jan 2025 - Present",
+      "status": "Present",
+      "description": "Leading the AI charter, developing Agentic AI workflows and integrating GenAI capabilities to automate business processes and enhance user experience."
+    },
+    {
+      "id": "exp2",
+      "role": "Product Manager L3 - Growth",
+      "company": "Justdial Ltd.",
+      "period": "Apr 2023 - Dec 2024",
+      "status": "Previous",
+      "description": "Drove organic traffic and user acquisition through strategic SEO and content initiatives and data-driven UX optimisations."
+    },
+    {
+      "id": "exp3",
+      "role": "Product Manager L2 - JDMart",
+      "company": "Justdial Ltd.",
+      "period": "Feb 2022 - Mar 2023",
+      "status": "Previous",
+      "description": "Managed the B2B marketplace product lifecycle, focusing on end to end buyer funnel."
+    },
+    {
+      "id": "exp4",
+      "role": "Product Manager - Omnichannel Retail",
+      "company": "Vinculum Group",
+      "period": "Apr 2019 - Feb 2022",
+      "status": "Previous",
+      "description": "Designed and delivered new product modules that increased customer retention and lifetime value (LTV) across Order and warehouse management systems."
+    },
+    {
+      "id": "exp5",
+      "role": "Business analyst (MT) - Enterprise Clients",
+      "company": "Vinculum Group",
+      "period": "Apr 2018 - Apr 2019",
+      "status": "Previous",
+      "description": "Delivered change requirements and client-specific customizations by coordinating effectively between project managers and engineering teams."
+    }
+  ],
+  "aiProjects": [
+    {
+      "id": "gh1",
+      "code": "LQ",
+      "title": "AI Lead Qualifier",
+      "description": "Dynamic AI-powered lead qualification bot using LLMs, capable of handling B2B and B2C scenarios autonomously.",
+      "color": "bg-yellow-100 text-yellow-600",
+      "badge": "bg-yellow-100 text-yellow-600",
+      "type": "Personal"
+    },
+    {
+      "id": "gh2",
+      "code": "NA",
+      "title": "AI News Agent",
+      "description": "Daily AI news tracker that aggregates and summarizes discussions and papers from various sources.",
+      "color": "bg-indigo-100 text-indigo-600",
+      "badge": "bg-indigo-100 text-indigo-600",
+      "type": "Personal"
+    },
+    {
+      "id": "gh7",
+      "code": "CS",
+      "title": "Chrome Content Rewriter",
+      "description": "Browser extension leveraging LLMs to summarize or rewrite web content on the fly, boosting productivity.",
+      "color": "bg-teal-100 text-teal-600",
+      "badge": "bg-teal-100 text-teal-600",
+      "type": "Personal"
+    },
+    {
+      "id": "gh3",
+      "code": "BC",
+      "title": "BERT Category Search",
+      "description": "Implemented BERT-based semantic category retrieval system using vector embeddings for accurate classification.",
+      "color": "bg-red-100 text-red-600",
+      "badge": "bg-red-100 text-red-600",
+      "type": "Personal"
+    },
+    {
+      "id": "gh4",
+      "code": "LL",
+      "title": "LLM & Embeddings",
+      "description": "Experiments with small SLMs, prompt engineering, and semantic similarity using cosine distance and transformers.",
+      "color": "bg-cyan-100 text-cyan-600",
+      "badge": "bg-cyan-100 text-cyan-600",
+      "type": "Personal"
+    },
+    {
+      "id": "gh5",
+      "code": "CG",
+      "title": "Content Gen Agent",
+      "description": "Autonomous AI agent converting Arxiv research papers into viral, professional LinkedIn posts.",
+      "color": "bg-pink-100 text-pink-600",
+      "badge": "bg-pink-100 text-pink-600",
+      "type": "Personal"
+    },
+    {
+      "id": "gh6",
+      "code": "HP",
+      "title": "House Price Estimator",
+      "description": "Streamlit app predicting house prices using ML models with interactive feature adjustment and visual insights.",
+      "color": "bg-green-100 text-green-600",
+      "badge": "bg-green-100 text-green-600",
+      "type": "Personal"
+    },
+    {
+      "id": "ai2",
+      "code": "VA",
+      "title": "Voice AI Sales Agent",
+      "description": "Developed a conversational Voice AI utilizing LLMs to automate outbound sales calls, scheduling appointments with high conversion rates.",
+      "color": "bg-orange-100 text-orange-600",
+      "badge": "bg-orange-100 text-orange-600",
+      "type": "Justdial"
+    },
+    {
+      "id": "ai5",
+      "code": "GP",
+      "title": "LLM App Marketplace",
+      "description": "Architected a Model Context Protocol (MCP) integration for the App Marketplace, enabling Justdial to allow seamless connectivity with major LLMs like ChatGPT and Claude.",
+      "color": "bg-teal-100 text-teal-600",
+      "badge": "bg-teal-100 text-teal-600",
+      "type": "Justdial"
+    },
+    {
+      "id": "ai9",
+      "code": "MT",
+      "title": "Multilingual AI Translation",
+      "description": "Automated translation of Justdial pages into 7 regional languages, driving 5M+ monthly organic traffic.",
+      "color": "bg-purple-100 text-purple-600",
+      "badge": "bg-purple-100 text-purple-600",
+      "type": "Justdial"
+    },
+    {
+      "id": "ai4",
+      "code": "AA",
+      "title": "Ask Anything Agent",
+      "description": "Built a generative AI concierge for Justdial users, capable of answering complex queries across diverse categories.",
+      "color": "bg-green-100 text-green-600",
+      "badge": "bg-green-100 text-green-600",
+      "type": "Justdial"
+    },
+    {
+      "id": "ai3",
+      "code": "IS",
+      "title": "Visual Search Engine",
+      "description": "Implemented visual search capabilities allowing users to query local businesses and products using images, enhancing discovery.",
+      "color": "bg-blue-100 text-blue-600",
+      "badge": "bg-blue-100 text-blue-600",
+      "type": "Justdial"
+    },
+    {
+      "id": "ai6",
+      "code": "DV",
+      "title": "Voice AI Verification",
+      "description": "Deployed an automated voice bot for verifying business listings at scale, ensuring data accuracy while reducing operational costs.",
+      "color": "bg-indigo-100 text-indigo-600",
+      "badge": "bg-indigo-100 text-indigo-600",
+      "type": "Justdial"
+    },
+    {
+      "id": "ai8",
+      "code": "CE",
+      "title": "Content Enrichment",
+      "description": "Leveraged Generative AI to automatically enrich business profiles with detailed descriptions and keywords, improving SEO.",
+      "color": "bg-pink-100 text-pink-600",
+      "badge": "bg-pink-100 text-pink-600",
+      "type": "Justdial"
+    },
+    {
+      "id": "ai7",
+      "code": "CV",
+      "title": "Smart CV Screener",
+      "description": "Developed an AI-powered resume screening tool to match candidates against job descriptions with high accuracy.",
+      "color": "bg-blue-100 text-blue-600",
+      "badge": "bg-blue-100 text-blue-600",
+      "type": "Justdial"
+    }
+  ],
+  "onsiteProjects": [
+    {
+      "id": "proj1",
+      "code": "SK",
+      "title": "Skechers",
+      "description": "Led the implementation of an omnichannel inventory management system, streamlining operations across online and offline channels.",
+      "color": "bg-[#fefce8] text-primary",
+      "badge": "bg-[#fefce8] text-primary"
+    },
+    {
+      "id": "proj2",
+      "code": "SW",
+      "title": "Swiggy Instamart",
+      "description": "Launched fulfillment operations featuring automated inventory replenishment and robust warehouse management solutions for quick grocery delivery.",
+      "color": "bg-orange-100 text-orange-600",
+      "badge": "bg-orange-100 text-orange-600"
+    },
+    {
+      "id": "proj3",
+      "code": "NY",
+      "title": "Nykaa",
+      "description": "Optimized inventory synchronization logic for high-volume sales events, reducing overselling and stockouts significantly.",
+      "color": "bg-pink-100 text-pink-600",
+      "badge": "bg-pink-100 text-pink-600"
+    },
+    {
+      "id": "proj4",
+      "code": "EI",
+      "title": "EigerIndo",
+      "description": "Delivered a localized fulfillment solution for the Indonesian market, enhancing regional logistics capabilities.",
+      "color": "bg-green-100 text-green-600",
+      "badge": "bg-green-100 text-green-600"
+    }
+  ],
+  "rolesDetails": [
+    {
+      "role": "Sr. Product Manager - AI and Growth Initiatives",
+      "company": "Justdial Ltd.",
+      "period": "Jan 2025 - Present",
+      "points": [
+        "Architecting the **Agentic AI Framework** to automate complex customer support workflows, targeting a 40% reduction in manual query resolution.",
+        "Spearheading the integration of **Voice AI** agents for outbound sales, enabling 24/7 lead qualification and appointment scheduling.",
+        "Developing a proprietary **Model Context Protocol (MCP)** implementation to allow seamless switching between LLM providers (OpenAI, Anthropic, Gemini) for various internal tools.",
+        "Leading a cross-functional team of 10+ engineers and data scientists to build and deploy **RAG-based** knowledge retrieval systems for internal staff.",
+        "Enriched **2L+ Products** by deploying a pipeline combining **RAG and LLM** outputs, significantly improving content quality and search relevance."
+      ]
+    },
+    {
+      "role": "Product Manager L3 - Growth",
+      "company": "Justdial Ltd.",
+      "period": "Apr 2023 - Dec 2024",
+      "points": [
+        "Orchestrated the **SEO Revamp 2.0**, implementing programmatic SEO strategies that increased organic traffic by 150% YoY.",
+        "Optimized the **User Acquisition Funnel** through A/B testing on landing pages, resulting in a 25% uplift in signup conversion rates.",
+        "Launched **Multilingual Pages** across 7 regional languages, driving **5M+ monthly organic traffic** via automated translation workflows.",
+        "Collaborated with marketing to drive **Performance Marketing** efficiency, reducing CAC by 18% through better audience targeting and landing page relevance.",
+        "Implemented rigorous **Data Analytics** pipelines using Google Analytics 4 and internal analytics engine to track real-time user behavior impacting retention."
+      ]
+    },
+    {
+      "role": "Product Manager L2 - JDMart",
+      "company": "Justdial Ltd.",
+      "period": "Feb 2022 - Mar 2023",
+      "points": [
+        "Introduced **non-regional B2B Results pages** and added auto-generated catalogues, seller videos, and dynamic Q&As, resulting in a **100% increase** in results page user visits via Google.",
+        "Added **lead generating avenues** on pages contributing to a **50% increase** in click on lead CTAs.",
+        "Introduced a new **lead generation channel**, adding monthly revenue of approximately **₹5.6 million**.",
+        "Launched **JD Shopping**, an open quick commerce platform empowering local retailers to sell online."
+      ]
+    },
+    {
+      "role": "Product Manager - Omnichannel Retail",
+      "company": "Vinculum Group",
+      "period": "Apr 2019 - Feb 2022",
+      "points": [
+        "Led the **Omnichannel Inventory Management** module, enabling real-time stock sync across 15+ marketplaces (Amazon, Flipkart, Myntra).",
+        "Designed and launched the **'Vin eRetail' Mobile App**, giving warehouse managers on-the-go access to order processing and dashboard metrics.",
+        "Optimized **Order Routing Algorithms** to automatically assign orders to the nearest warehouse, reducing shipping costs and delivery times by 20%.",
+        "Worked closely with clients like **Skechers and Nykaa** to gather requirements and built custom integrations for their specific logistics workflows."
+      ]
+    },
+    {
+      "role": "Business analyst (MT) - Enterprise Clients",
+      "company": "Vinculum Group",
+      "period": "Apr 2018 - Apr 2019",
+      "points": [
+        "Conducted extensive **Gap Analysis** for enterprise clients migrating to SaaS-based OMS/WMS solutions.",
+        "Documented detailed **BRDs (Business Requirement Documents)** and FSDs, bridging the communication gap between business stakeholders and technical teams.",
+        "Facilitated **UAT (User Acceptance Testing)** phases for major deployments, ensuring zero critical bugs upon go-live.",
+        "Assisted in the **Pre-sales** process by creating product demos and proof-of-concept workflows for potential enterprise leads."
+      ]
+    }
+  ],
+  "mantra": "Building products that think, not just do.",
+  "skills": [
+    "Agentic AI",
+    "Voice AI",
+    "NLP",
+    "Product Strategy",
+    "Agile & Scrum",
+    "User Research",
+    "Data Analytics",
+    "Roadmapping",
+    "Stakeholder Mgmt"
+  ],
+  "education": [
+    {
+      "degree": "Agentic AI and Applications",
+      "school": "IIT Madras",
+      "status": "PCP",
+      "icon": "smart_toy"
+    },
+    {
+      "degree": "MBA",
+      "school": "IIM Rohtak",
+      "status": "PGDM",
+      "icon": "business_center"
+    },
+    {
+      "degree": "Bachelor of Engineering",
+      "school": "GHRCE",
+      "status": "BTECH",
+      "icon": "engineering"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "PSPO Certification",
+      "issuer": "Professional Scrum Product Owner"
+    },
+    {
+      "name": "Datacamp",
+      "issuer": "Data Science & Analytics"
+    },
+    {
+      "name": "Generative AI for Business",
+      "issuer": "IBM"
+    },
+    {
+      "name": "Generative AI for Everyone",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "LangChain for LLM Dev",
+      "issuer": "DeepLearning.AI"
+    },
+    {
+      "name": "SEO Expert",
+      "issuer": "LinkedIn Learning"
+    },
+    {
+      "name": "Inbound Marketing",
+      "issuer": "HubSpot"
+    },
+    {
+      "name": "Online Marketing",
+      "issuer": "Google"
+    },
+    {
+      "name": "Google Analytics",
+      "issuer": "Google"
+    },
+    {
+      "name": "Google Adwords",
+      "issuer": "Google"
+    },
+    {
+      "name": "Growth Hacking Fundamentals",
+      "issuer": "LinkedIn Learning"
+    },
+    {
+      "name": "Content Marketing",
+      "issuer": "HubSpot"
+    }
+  ],
+  "tools": [
+    {
+      "name": "Python",
+      "icon": "code",
+      "color": "text-yellow-600"
+    },
+    {
+      "name": "LangGraph",
+      "icon": "schema",
+      "color": "text-pink-600"
+    },
+    {
+      "name": "LangChain",
+      "icon": "link",
+      "color": "text-green-600"
+    },
+    {
+      "name": "AutoGen",
+      "icon": "smart_toy",
+      "color": "text-purple-600"
+    },
+    {
+      "name": "CrewAI",
+      "icon": "groups",
+      "color": "text-orange-500"
+    },
+    {
+      "name": "n8n",
+      "icon": "account_tree",
+      "color": "text-red-500"
+    },
+    {
+      "name": "Lovable",
+      "icon": "favorite",
+      "color": "text-pink-500"
+    },
+    {
+      "name": "Stitch",
+      "icon": "join_inner",
+      "color": "text-purple-500"
+    },
+    {
+      "name": "SQL",
+      "icon": "database",
+      "color": "text-blue-600"
+    },
+    {
+      "name": "VSCode",
+      "icon": "terminal",
+      "color": "text-blue-500"
+    },
+    {
+      "name": "Notion",
+      "icon": "edit_note",
+      "color": "text-slate-700"
+    },
+    {
+      "name": "Antigravity",
+      "icon": "rocket_launch",
+      "color": "text-indigo-600"
+    },
+    {
+      "name": "Google Search Console",
+      "icon": "travel_explore",
+      "color": "text-blue-500"
+    },
+    {
+      "name": "Jira",
+      "icon": "task_alt",
+      "color": "text-blue-600"
+    },
+    {
+      "name": "Figma",
+      "icon": "brush",
+      "color": "text-purple-500"
+    },
+    {
+      "name": "Tableau",
+      "icon": "bar_chart",
+      "color": "text-blue-400"
+    },
+    {
+      "name": "Google Analytics",
+      "icon": "analytics",
+      "color": "text-yellow-500"
+    },
+    {
+      "name": "Miro",
+      "icon": "sticky_note_2",
+      "color": "text-yellow-400"
+    }
+  ],
+  "caseStudy": {
+    "title": "Skechers Omnichannel Implementation",
+    "description": "Implemented a comprehensive omnichannel strategy reducing order-to-delivery time from 2 weeks to 2 hours. Features included order orchestration, endless aisle, and contactless COVID-safe store fulfillment.",
+    "image": "/skechers-omnichannel.png",
+    "stats": [
+      {
+        "value": "2 Weeks \u2192 2 Hours",
+        "label": "Delivery Speed"
+      },
+      {
+        "value": "100%",
+        "label": "Contactless Orders"
+      }
+    ]
+  }
+}

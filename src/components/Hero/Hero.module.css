@@ -1,0 +1,113 @@
+.hero {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    position: relative;
+    background-color: var(--bg-primary);
+    /* Subtle grid background */
+    background-image: radial-gradient(var(--border-light) 1px, transparent 1px);
+    background-size: 40px 40px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+    width: 100%;
+}
+
+.content {
+    max-width: 800px;
+}
+
+.label {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: var(--bg-secondary);
+    color: var(--text-secondary);
+    font-size: 0.875rem;
+    font-weight: 600;
+    border-radius: 999px;
+    margin-bottom: 2rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.title {
+    font-size: 4.5rem;
+    line-height: 1.1;
+    font-weight: 800;
+    letter-spacing: -0.04em;
+    margin-bottom: 2rem;
+    color: var(--text-primary);
+}
+
+.highlight {
+    color: var(--accent-primary);
+}
+
+.bio {
+    font-size: 1.25rem;
+    line-height: 1.6;
+    color: var(--text-secondary);
+    max-width: 600px;
+    margin-bottom: 3rem;
+}
+
+.bio strong {
+    color: var(--text-primary);
+    font-weight: 600;
+}
+
+.secondaryBio {
+    margin-top: 1rem;
+    font-size: 1.1rem;
+    color: var(--text-tertiary);
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+
+.primaryBtn {
+    background-color: var(--text-primary);
+    color: #fff;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: opacity 0.2s;
+}
+
+.primaryBtn:hover {
+    opacity: 0.9;
+}
+
+.socials {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.socialLink {
+    color: var(--text-secondary);
+    transition: color 0.2s;
+}
+
+.socialLink:hover {
+    color: var(--accent-primary);
+}
+
+.scrollIndicator {
+    position: absolute;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    color: var(--text-tertiary);
+}
+
+@media (max-width: 768px) {
+    .title {
+        font-size: 3rem;
+    }
+}

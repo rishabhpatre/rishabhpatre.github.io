@@ -1,0 +1,39 @@
+.bentoContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: auto auto;
+    gap: 1.5rem;
+    max-width: 1200px;
+    margin: 2rem auto;
+    grid-template-areas:
+        "profile experience sidebar"
+        "projects projects sidebar";
+    height: calc(100vh - 4rem);
+    padding: 0 1rem;
+}
+
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    grid-area: sidebar;
+}
+
+@media (max-width: 1024px) {
+    .bentoContainer {
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+            "profile experience"
+            "sidebar sidebar"
+            "projects projects";
+        height: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .bentoContainer {
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+}
