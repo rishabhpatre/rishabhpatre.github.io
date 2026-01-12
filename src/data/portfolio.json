@@ -1,17 +1,17 @@
 {
   "profile": {
     "name": "Rishabh Patre",
-    "role": "Senior Product Manager at Justdial",
+    "role": "Senior Product Manager @ Justdial",
     "email": "rishabhbpatre@gmail.com",
     "phone": "+919511714436",
     "linkedin": "https://www.linkedin.com/in/rishabhpatre/",
     "github": "https://github.com/rishabhpatre",
-    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQFTrxJA_XL7rw/profile-displayphoto-crop_800_800/B56ZuJuF46KgAI-/0/1767542127927?e=1769040000&v=beta&t=WdXKV9N2jDF6dWMOWDUGB26ZtMmmiwf1arHIrHTnQbI"
+    "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEkR4BhAA_zJQ/profile-displayphoto-scale_400_400/B56ZuUlPncHkAg-/0/1767724357978?e=1769040000&v=beta&t=OgJeZTVZP05wSqIWU_UBlf5R7GWFaNkFR7cwqo9cOf0"
   },
   "summary": [
-    "Senior Product Manager with deep expertise in **AI-driven solutions** and driving both B2C and B2B products, currently leading GenAI initiatives at Justdial.",
-    "Proven track record of driving **product growth and organic traffic** through strategic SEO and data-driven user funnel optimization.",
-    "Technical PM capable of bridging the gap between business goals and engineering, with hands-on experience in **LLMs, Model Context Protocols (MCP), and Python**.",
+    "Senior Product Manager with deep expertise in **AI-driven products** across B2C and B2B, currently leading AI initiatives at Justdial.",
+    "Proven track record of driving large-scale product growth, managing **100M+ monthly organic traffic** through strategic SEO, AEO/GEO, and data-driven funnel optimization.",
+    "Technical PM capable of bridging the gap between business goals and engineering, with hands-on experience in **LLMs, Agentic AI, and Python**.",
     "Successful history of delivering complex **omnichannel and logistics solutions** for global brands including Swiggy, Nykaa, and Skechers."
   ],
   "experience": [
@@ -21,7 +21,7 @@
       "company": "Justdial Ltd.",
       "period": "Jan 2025 - Present",
       "status": "Present",
-      "description": "Leading the AI charter, developing Agentic AI workflows and integrating GenAI capabilities to automate business processes and enhance user experience."
+      "description": "Leading Justdial’s AI platform strategy across Voice AI, LLMs, RAG, and AI-native discovery to drive revenue growth, cost efficiency, and large-scale automation"
     },
     {
       "id": "exp2",
@@ -29,7 +29,7 @@
       "company": "Justdial Ltd.",
       "period": "Apr 2023 - Dec 2024",
       "status": "Previous",
-      "description": "Drove organic traffic and user acquisition through strategic SEO and content initiatives and data-driven UX optimisations."
+      "description": "Drove organic traffic and user acquisition for Justdial through SEO-led growth initiatives, content strategy, and data-driven UX optimizations."
     },
     {
       "id": "exp3",
@@ -37,7 +37,7 @@
       "company": "Justdial Ltd.",
       "period": "Feb 2022 - Mar 2023",
       "status": "Previous",
-      "description": "Managed the B2B marketplace product lifecycle, focusing on end to end buyer funnel."
+      "description": "Owned JD Shopping fulfillment flows and led early-stage growth for JD Mart (B2B marketplace)."
     },
     {
       "id": "exp4",
@@ -45,7 +45,7 @@
       "company": "Vinculum Group",
       "period": "Apr 2019 - Feb 2022",
       "status": "Previous",
-      "description": "Designed and delivered new product modules that increased customer retention and lifetime value (LTV) across Order and warehouse management systems."
+      "description": "Led omnichannel and OMS platforms, driving zero-to-one product builds and large-scale retail transformations."
     },
     {
       "id": "exp5",
@@ -53,7 +53,7 @@
       "company": "Vinculum Group",
       "period": "Apr 2018 - Apr 2019",
       "status": "Previous",
-      "description": "Delivered change requirements and client-specific customizations by coordinating effectively between project managers and engineering teams."
+      "description": "Acted as the bridge between clients and engineering teams, translating business requirements into product-ready specifications and client-specific solutions."
     }
   ],
   "aiProjects": [
@@ -67,21 +67,30 @@
       "type": "Personal"
     },
     {
+      "id": "gh7",
+      "code": "CS",
+      "title": "AI Writing Copilot",
+      "description": "Browser extension leveraging LLMs to explain, summarize, rewrite and generate 25+ types of professional content on the fly, boosting productivity.",
+      "color": "bg-teal-100 text-teal-600",
+      "badge": "bg-teal-100 text-teal-600",
+      "type": "Personal"
+    },
+    {
+      "id": "gh8",
+      "code": "DD",
+      "title": "Digidrobe",
+      "description": "Computer vision based app to catalog clothes and generates personalized daily outfit recommendations based on color harmony, style compatibility, and weather.",
+      "color": "bg-rose-100 text-rose-600",
+      "badge": "bg-rose-100 text-rose-600",
+      "type": "Personal"
+    },
+    {
       "id": "gh2",
       "code": "NA",
       "title": "AI News Agent",
       "description": "Daily AI news tracker that aggregates and summarizes discussions and papers from various sources.",
       "color": "bg-indigo-100 text-indigo-600",
       "badge": "bg-indigo-100 text-indigo-600",
-      "type": "Personal"
-    },
-    {
-      "id": "gh7",
-      "code": "CS",
-      "title": "Chrome Content Rewriter",
-      "description": "Browser extension leveraging LLMs to summarize or rewrite web content on the fly, boosting productivity.",
-      "color": "bg-teal-100 text-teal-600",
-      "badge": "bg-teal-100 text-teal-600",
       "type": "Personal"
     },
     {
@@ -106,7 +115,7 @@
       "id": "gh5",
       "code": "CG",
       "title": "Content Gen Agent",
-      "description": "Autonomous AI agent converting Arxiv research papers into viral, professional LinkedIn posts.",
+      "description": "Autonomous AI agent converting Arxiv research papers and top news feeds into viral, professional LinkedIn posts.",
       "color": "bg-pink-100 text-pink-600",
       "badge": "bg-pink-100 text-pink-600",
       "type": "Personal"
@@ -160,7 +169,7 @@
       "id": "ai3",
       "code": "IS",
       "title": "Visual Search Engine",
-      "description": "Implemented visual search capabilities allowing users to query local businesses and products using images, enhancing discovery.",
+      "description": "Implemented image search capabilities allowing users to query local businesses and products using images, enhancing discovery.",
       "color": "bg-blue-100 text-blue-600",
       "badge": "bg-blue-100 text-blue-600",
       "type": "Justdial"
@@ -220,8 +229,8 @@
     },
     {
       "id": "proj4",
-      "code": "EI",
-      "title": "EigerIndo",
+      "code": "CO",
+      "title": "Coco Group",
       "description": "Delivered a localized fulfillment solution for the Indonesian market, enhancing regional logistics capabilities.",
       "color": "bg-green-100 text-green-600",
       "badge": "bg-green-100 text-green-600"
@@ -233,11 +242,14 @@
       "company": "Justdial Ltd.",
       "period": "Jan 2025 - Present",
       "points": [
-        "Architecting the **Agentic AI Framework** to automate complex customer support workflows, targeting a 40% reduction in manual query resolution.",
-        "Spearheading the integration of **Voice AI** agents for outbound sales, enabling 24/7 lead qualification and appointment scheduling.",
-        "Developing a proprietary **Model Context Protocol (MCP)** implementation to allow seamless switching between LLM providers (OpenAI, Anthropic, Gemini) for various internal tools.",
-        "Leading a cross-functional team of 10+ engineers and data scientists to build and deploy **RAG-based** knowledge retrieval systems for internal staff.",
-        "Enriched **2L+ Products** by deploying a pipeline combining **RAG and LLM** outputs, significantly improving content quality and search relevance."
+        "Owning and scaling **Justdial’s AI platform** across Voice, LLMs, RAG, and agentic workflows to drive growth, operational efficiency, and AI-native discovery.",
+        "Spearheaded **Voice AI** initiatives, delivering **₹3Cr+ in annual cost savings** and driving a **15% increase in sales appointment bookings**, directly impacting topline revenue.",
+        "Developing a proprietary **Model Context Protocol (MCP)** to integrate with frontier LLMs, enabling Justdial content and actions to be surfaced and driven from AI platforms.",
+        "Led speech analytics solutions across sales, customer support, QA, spam detection, and competitor intelligence, analyzing **10k+ calls per day**, resulting in **₹4Cr+ annual cost savings** and generating **~9k qualified leads per day**.",
+        "Leading **GEO and AEO initiatives** to optimize Justdial for AI platforms, enabling **5M+ daily AI crawls** and driving **~1M monthly traffic** from LLM-based discovery channels.",
+        "Shipped **Ask Anything** AI agent for Justdial, enabling users to ask complex, cross-category queries through a conversational interface.",
+        "Built **RAG-based knowledge systems** for HR and customer support, eliminating **~80% of repeated HR queries** and **~60% of repetitive CS queries**.",
+        "Enriched **2L+ products** by deploying a pipeline combining **RAG and LLM outputs**, significantly improving content quality and search relevance."
       ]
     },
     {
@@ -245,11 +257,17 @@
       "company": "Justdial Ltd.",
       "period": "Apr 2023 - Dec 2024",
       "points": [
-        "Orchestrated the **SEO Revamp 2.0**, implementing programmatic SEO strategies that increased organic traffic by 150% YoY.",
-        "Optimized the **User Acquisition Funnel** through A/B testing on landing pages, resulting in a 25% uplift in signup conversion rates.",
-        "Launched **Multilingual Pages** across 7 regional languages, driving **5M+ monthly organic traffic** via automated translation workflows.",
-        "Collaborated with marketing to drive **Performance Marketing** efficiency, reducing CAC by 18% through better audience targeting and landing page relevance.",
-        "Implemented rigorous **Data Analytics** pipelines using Google Analytics 4 and internal analytics engine to track real-time user behavior impacting retention."
+        "Owned cross-platform **growth strategy** across web and mobile platforms to scale user traffic and leads on Justdial.",
+        "Orchestrated **SEO Revamp 2.0**, delivering **35% YoY organic traffic growth** and scaling the platform to **6M+ daily visits**.",
+        "Launched **multilingual pages** across **6 regional languages**, driving **5M+ monthly organic traffic** through automated translation workflows.",
+        "Partnered with marketing to improve **performance marketing efficiency**, reducing **CAC by 18%** through better audience targeting and landing page relevance.",
+        "Implemented **data analytics pipelines** using **GA4** and internal analytics systems to track real-time user behavior and improve retention insights.",
+        "Recognized with the **Top Impactor Award** for delivering high-impact growth initiatives."
+      ],
+      "images": [
+        "/100m-visits.jpg",
+        "/milestone-achievement.png",
+        "/vishal-parikh-testimonial.png"
       ]
     },
     {
@@ -257,10 +275,11 @@
       "company": "Justdial Ltd.",
       "period": "Feb 2022 - Mar 2023",
       "points": [
+        "Built and owned **order fulfillment** flows for JD Shopping, and later led JD Mart (B2B marketplace) through its early-stage growth and scale-up.",
         "Introduced **non-regional B2B Results pages** and added auto-generated catalogues, seller videos, and dynamic Q&As, resulting in a **100% increase** in results page user visits via Google.",
         "Added **lead generating avenues** on pages contributing to a **50% increase** in click on lead CTAs.",
-        "Introduced a new **lead generation channel**, adding monthly revenue of approximately **₹5.6 million**.",
-        "Launched **JD Shopping**, an open quick commerce platform empowering local retailers to sell online."
+        "Launched **JD Shopping**, an open quick commerce platform empowering local retailers to sell online.",
+        "Led 5+ logistics **partner integrations** from scratch and built a multi-LSP order allocation engine for optimized fulfillment."
       ]
     },
     {
@@ -268,10 +287,10 @@
       "company": "Vinculum Group",
       "period": "Apr 2019 - Feb 2022",
       "points": [
-        "Led the **Omnichannel Inventory Management** module, enabling real-time stock sync across 15+ marketplaces (Amazon, Flipkart, Myntra).",
-        "Designed and launched the **'Vin eRetail' Mobile App**, giving warehouse managers on-the-go access to order processing and dashboard metrics.",
+        "Led the **Omnichannel Order and Inventory Management** platforms, enabling real-time stock sync across 15+ marketplaces (Amazon, Flipkart, Myntra).",
+        "Owned the **0->1** build of Vin OMS 2.0, shaping vision, architecture, and roadmap to deliver a modular, standalone OMS serving as the central orchestration layer for unified commerce.",
         "Optimized **Order Routing Algorithms** to automatically assign orders to the nearest warehouse, reducing shipping costs and delivery times by 20%.",
-        "Worked closely with clients like **Skechers and Nykaa** to gather requirements and built custom integrations for their specific logistics workflows."
+        "Worked closely with clients like **Skechers and Swiggy Instamart** to gather requirements and built custom integrations for their specific logistics workflows."
       ]
     },
     {
@@ -280,14 +299,17 @@
       "period": "Apr 2018 - Apr 2019",
       "points": [
         "Conducted extensive **Gap Analysis** for enterprise clients migrating to SaaS-based OMS/WMS solutions.",
-        "Documented detailed **BRDs (Business Requirement Documents)** and FSDs, bridging the communication gap between business stakeholders and technical teams.",
+        "Documented detailed **BRDs (Business Requirement Documents)**, bridging the communication gap between business stakeholders and technical teams.",
         "Facilitated **UAT (User Acceptance Testing)** phases for major deployments, ensuring zero critical bugs upon go-live.",
         "Assisted in the **Pre-sales** process by creating product demos and proof-of-concept workflows for potential enterprise leads."
       ]
     }
   ],
-  "mantra": "Building products that think, not just do.",
+  "mantra": "Every curious question deserves a clear answer. By digging deeper, we build better.",
   "skills": [
+    "0 -> 1 Products",
+    "GEO",
+    "SEO",
     "Agentic AI",
     "Voice AI",
     "NLP",
@@ -460,19 +482,276 @@
       "color": "text-yellow-400"
     }
   ],
-  "caseStudy": {
-    "title": "Skechers Omnichannel Implementation",
-    "description": "Implemented a comprehensive omnichannel strategy reducing order-to-delivery time from 2 weeks to 2 hours. Features included order orchestration, endless aisle, and contactless COVID-safe store fulfillment.",
-    "image": "/skechers-omnichannel.png",
-    "stats": [
-      {
-        "value": "2 Weeks \u2192 2 Hours",
-        "label": "Delivery Speed"
-      },
-      {
-        "value": "100%",
-        "label": "Contactless Orders"
+  "projectShowcase": [
+    {
+      "title": "Draftly - AI Writing Copilot",
+      "description": "A context-aware writing and reply assistant that transforms selected text into clear writing, smart replies, and structured work artifacts — designed with intent-based actions, natural language control, and human-first UX.",
+      "link": "https://github.com/rishabhpatre/draftly",
+      "image": "/draftly-showcase.png",
+      "tags": [
+        "Personal",
+        "Gen AI"
+      ],
+      "stats": [
+        {
+          "value": "25+ Tools",
+          "label": "Writing & Productivity"
+        },
+        {
+          "value": "Smart Reply",
+          "label": "Context Aware"
+        },
+        {
+          "value": "Secure",
+          "label": "BYOK Architecture"
+        }
+      ],
+      "tech": [
+        "Chrome Extensions (MV3)",
+        "JavaScript",
+        "LLM APIs",
+        "Prompt Engineering",
+        "UX Design"
+      ],
+      "highlights": [
+        "Designing an intent-based UX instead of prompt-based interaction",
+        "Building stance-driven reply tools that feel human",
+        "Reducing AI-generic output through prompt discipline and quality checks",
+        "Creating a scalable, platform-agnostic writing copilot"
+      ]
+    },
+    {
+      "title": "Voice AI–Led Vendor Data Verification",
+      "description": "Led the replacement of manual vendor data verification calls with AI-powered voice calling, automating the confirmation of critical business information (phone numbers, addresses, and operational status) across Justdial’s vendor ecosystem.",
+      "image": "/voice-ai-verification-new.jpg",
+      "link": "#",
+      "tags": [
+        "Justdial",
+        "Voice AI"
+      ],
+      "stats": [
+        {
+          "value": "2L+",
+          "label": "Automated Calls/Mo"
+        },
+        {
+          "value": "94%",
+          "label": "Data Accuracy"
+        },
+        {
+          "value": "₹2Cr+",
+          "label": "Annual Savings"
+        }
+      ],
+      "tech": [
+        "Voice AI",
+        "Multilingual NLP (Hindi Dialects)",
+        "Ops Cost Reduction",
+        "AI at Scale",
+        "Data Pipelines"
+      ],
+      "impact": [
+        "📞 Automated 2L+ verification calls per month",
+        "🎯 Achieved ~94% data extraction accuracy",
+        "✅ Improved confirmation success to 82% of connected calls (vs ~75% with manual calling)",
+        "💰 Reduced cost per call from ₹19 → ₹3.2",
+        "💸 Delivered ₹2Cr+ annual cost savings"
+      ],
+      "highlights": [
+        "Replacing a core manual operational workflow with AI at production scale",
+        "Improving both cost efficiency and effectiveness over human-led processes",
+        "Designing Voice AI that works across India’s linguistic diversity",
+        "Raising the quality and trustworthiness of Justdial’s business listings"
+      ]
+    },
+    {
+      "title": "Multilingual Pages for Regional Growth",
+      "description": "Led the build and scale of robust multilingual pages at Justdial to expand reach across India’s regional-language internet users. The initiative focused on creating SEO-friendly, scalable, and high-quality experiences across 6 Indian regional languages, significantly improving organic discovery and user engagement.",
+      "image": "/multilingual-growth-new.jpg",
+      "link": "#",
+      "tags": [
+        "Justdial",
+        "Product Management"
+      ],
+      "stats": [
+        {
+          "value": "6 Languages",
+          "label": "Regional Search"
+        },
+        {
+          "value": "5M+ Traffic",
+          "label": "Monthly Organic"
+        },
+        {
+          "value": "Scalable",
+          "label": "Content System"
+        }
+      ],
+      "tech": [
+        "Multilingual SEO",
+        "Automated Translation Workflows",
+        "Scalable Content Architecture",
+        "Regional Keywords"
+      ],
+      "impact": [
+        "🌍 Launched multilingual pages across 6 Indian regional languages",
+        "📈 Drove 5M+ monthly organic traffic from regional-language search",
+        "🔍 Improved discovery and engagement for non-English users",
+        "🚀 Expanded Justdial’s reach into regional geographies and user segments",
+        "🧱 Established a scalable foundation for future language and localization expansion"
+      ],
+      "highlights": [
+        "Building a scalable multilingual growth system, not just translated pages",
+        "Balancing SEO performance with translation quality at scale",
+        "Unlocking regional growth without fragmenting the core product",
+        "Creating a framework that continues to compound organic traffic over time"
+      ]
+    },
+    {
+      "title": "Vin OMS 2.0 — Zero-to-One Unified Commerce Platform",
+      "description": "Owned the zero-to-one build of Vin OMS 2.0 under the Unified Vinculum initiative, reimagining OMS as a standalone, modular, API-first platform that acts as the central brain of unified commerce, aligned with global OMS market trends.",
+      "images": [
+        "/vin-unified-commerce.png",
+        "/vin-oms-architecture.png"
+      ],
+      "link": "https://www.vinculumgroup.com/use-cases/inventory-order-management/brands/",
+      "tags": [
+        "Vinculum",
+        "Product Management"
+      ],
+      "stats": [
+        {
+          "value": "Zero to One",
+          "label": "Platform Rebuild"
+        },
+        {
+          "value": "Unified Commerce",
+          "label": "Orchestration"
+        },
+        {
+          "value": "Standalone",
+          "label": "GTM Strategy"
+        }
+      ],
+      "tech": [
+        "Distributed Order Management",
+        "Config-driven Rules Engine",
+        "Unified Commerce Ecosystem"
+      ],
+      "impact": [
+        "🚀 Enabled standalone OMS monetization independent of WMS",
+        "📈 Improved scalability for enterprise omnichannel retailers (100+ locations)",
+        "⚡ Reduced ops and engineering friction via config-driven orchestration",
+        "🔮 Established a future-ready platform aligned with unified commerce growth"
+      ],
+      "highlights": [
+        "Leading a true zero-to-one platform rebuild",
+        "Making early architecture and GTM trade-offs that unlocked new markets",
+        "Enforcing product vs customization boundaries to keep the core scalable",
+        "Building a platform designed for long-term growth, not just features"
+      ]
+    },
+    {
+      "title": "Skechers — Omnichannel Retail Transformation",
+      "description": "Led implementing an omnichannel solution that unified inventory across warehouses and physical stores, enabling customers to order out-of-stock items via endless aisle and supporting BOPIS and ship-from-store workflows.",
+      "images": [
+        "/skechers-omnichannel.png",
+        "/skechers-diagram.png"
+      ],
+      "link": "https://www.vinculumgroup.com/case_study/skechers/",
+      "tags": [
+        "Vinculum",
+        "Product Management"
+      ],
+      "stats": [
+        {
+          "value": "2 Weeks → <1 Day",
+          "label": "Delivery Speed"
+        },
+        {
+          "value": "~15%",
+          "label": "Sales Increase"
+        },
+        {
+          "value": "100%",
+          "label": "Inventory Visibility"
+        }
+      ],
+      "tech": [
+        "Magento",
+        "Omni OMS",
+        "POS integration",
+        "Payment & reconciliation systems"
+      ],
+      "impact": [
+        "🚀 ~15% increase in sales through better inventory visibility",
+        "⚡ Average delivery time reduced from ~2 weeks to <1 day by shipping from nearest stores",
+        "📦 Unified inventory across e-commerce and retail stores",
+        "🛍️ Improved in-store and no-touch shopping experience"
+      ],
+      "highlights": [
+        "Solving a real revenue leakage problem without relying on discounts",
+        "Enabling physical stores to actively contribute to online growth",
+        "Driving a massive delivery speed improvement through smarter fulfillment logic",
+        "Building a solution that worked reliably at national retail scale"
+      ],
+      "quote": {
+        "text": "On Behalf of Skechers, I am very thankful to Sumit Karranji... for reaching out to us whenever needed and ensuring a successful implementation of the project. I am equally delighted with the diligent effort of the Project team - admirably led by Amit Mohan along with Rishabh Patre and Harshad Vagdoda to develop a custom reconciliation platform.",
+        "author": "Sachin Borakhade",
+        "role": "Head-IT, Skechers"
       }
-    ]
-  }
+    },
+    {
+      "title": "COCO Group — End-to-End Inventory and Order Orchestration",
+      "description": "Led the implementation of an end-to-end omnichannel retail and order management solution that unified marketplaces, webstores, warehouses, stores, and 3PL partners under a centralized OMS, enabling seamless order orchestration, inventory visibility, and multi-format fulfillment.",
+      "images": [
+        "/coco-group-1.jpg"
+      ],
+      "link": "#",
+      "tags": [
+        "Vinculum",
+        "Product Management"
+      ],
+      "stats": [
+        {
+          "value": "Inventory & Orders",
+          "label": "Single Source of Truth"
+        },
+        {
+          "value": "Store, Warehouse, 3PL",
+          "label": "Omnichannel Fulfillment"
+        },
+        {
+          "value": "Multi-Format Growth",
+          "label": "Scalable Retail Platform"
+        }
+      ],
+      "tech": [
+        "OMS",
+        "WMS",
+        "PIM",
+        "Endless Aisle",
+        "Marketplace & POS Integrations"
+      ],
+      "impact": [
+        "🚀 Unified inventory and order management across warehouses, small FCs, and retail stores",
+        "⚡ Faster and more accurate order fulfillment through intelligent order routing",
+        "🏬 Enabled store-led fulfillment and endless aisle for improved in-store conversion",
+        "🔄 Centralized returns, refunds, and payment reconciliation across channels",
+        "📊 Improved operational visibility with centralized analytics and reporting"
+      ],
+      "highlights": [
+        "Delivering a complex, end-to-end omnichannel transformation for a large grocery retailer",
+        "Orchestrating integrations across marketplaces, webstores, stores, warehouses, and 3PLs",
+        "Building a platform capable of handling high-frequency grocery orders at scale",
+        "Creating a future-ready architecture supporting loyalty, promotions, and seller enablement",
+        "Seeing the system operate reliably across multiple retail formats and fulfillment models"
+      ],
+      "quote": {
+        "text": "Appreciation to Rishabh Patre and the Vinculum team for the successful implementation of our omnichannel project. The team showed strong product thinking, excellent presence of mind, and a clear understanding of retail operations. A pleasure working with them.",
+        "author": "Pak Soni",
+        "role": "GM - Operations, COCO Group"
+      }
+    }
+  ]
 }

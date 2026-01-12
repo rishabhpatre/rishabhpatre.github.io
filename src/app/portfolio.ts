@@ -35,6 +35,7 @@ export interface PortfolioData {
         company: string;
         period: string;
         points: string[];
+        images?: string[];
     }[];
     mantra: string;
     skills: string[];
@@ -53,13 +54,24 @@ export interface PortfolioData {
         icon: string;
         color: string;
     }[];
-    caseStudy: {
+    projectShowcase: {
         title: string;
         description: string;
         image?: string;
+        images?: string[];
+        link: string;
         stats: {
             value: string;
             label: string;
         }[];
-    };
+        highlights?: string[];
+        tech?: string[];
+        tags?: string[];
+        impact?: string[];
+        quote?: {
+            text: string;
+            author: string;
+            role: string;
+        };
+    }[];
 }
