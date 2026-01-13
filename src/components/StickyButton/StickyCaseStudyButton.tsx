@@ -11,11 +11,10 @@ export const StickyCaseStudyButton = () => {
             if (!showcaseSection) return;
 
             const rect = showcaseSection.getBoundingClientRect();
-            const showcaseBottom = rect.bottom;
 
-            // If the bottom of the showcase section is above the viewport (scrolled past), hide button
-            // We add a little buffer (e.g. 100px) so it doesn't disappear instantly if you just barely pass it
-            if (showcaseBottom < 0) {
+            // Hide the button as soon as the user reaches the showcase section (or scrolls past it)
+            // If the top of the section is within the viewport (e.g. less than window height - 200px buffer), hide it.
+            if (rect.top < window.innerHeight - 100) {
                 setIsVisible(false);
             } else {
                 setIsVisible(true);
