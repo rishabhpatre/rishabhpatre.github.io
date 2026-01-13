@@ -245,7 +245,7 @@
         "Owning and scaling **Justdial’s AI platform** across Voice, LLMs, RAG, and agentic workflows to drive growth, operational efficiency, and AI-native discovery.",
         "Spearheaded **Voice AI** initiatives, delivering **₹3Cr+ in annual cost savings** and driving a **15% increase in sales appointment bookings**, directly impacting topline revenue.",
         "Developing a proprietary **Model Context Protocol (MCP)** to integrate with frontier LLMs, enabling Justdial content and actions to be surfaced and driven from AI platforms.",
-        "Led speech analytics solutions across sales, customer support, QA, spam detection, and competitor intelligence, analyzing **10k+ calls per day**, resulting in **₹4Cr+ annual cost savings** and generating **~9k qualified leads per day**.",
+        "Led speech analytics solutions across sales, customer support, QA, spam detection, and competitor intelligence, analyzing **15k+ calls per day**, resulting in **₹4Cr+ annual cost savings** and generating **~9k qualified leads per day**.",
         "Leading **GEO and AEO initiatives** to optimize Justdial for AI platforms, enabling **5M+ daily AI crawls** and driving **~1M monthly traffic** from LLM-based discovery channels.",
         "Shipped **Ask Anything** AI agent for Justdial, enabling users to ask complex, cross-category queries through a conversational interface.",
         "Built **RAG-based knowledge systems** for HR and customer support, eliminating **~80% of repeated HR queries** and **~60% of repetitive CS queries**.",
@@ -562,6 +562,51 @@
         "Improving both cost efficiency and effectiveness over human-led processes",
         "Designing Voice AI that works across India’s linguistic diversity",
         "Raising the quality and trustworthiness of Justdial’s business listings"
+      ]
+    },
+    {
+      "title": "Speech Analytics for Verification, Growth & Risk Control",
+      "description": "Led a speech analytics initiative at Justdial that applied a shared ASR + semantic intelligence pipeline to solve multiple high-impact business problems—spanning business verification, lead generation, spam control, and operational efficiency.",
+      "image": "/speech-analytics.jpg",
+      "link": "#",
+      "tags": [
+        "Justdial",
+        "Product Management"
+      ],
+      "stats": [
+        {
+          "value": "Millions",
+          "label": "Calls Analyzed"
+        },
+        {
+          "value": "₹4 Cr+",
+          "label": "Annual Savings"
+        },
+        {
+          "value": "+9K Leads",
+          "label": "Daily Revenue"
+        }
+      ],
+      "tech": [
+        "ASR Pipelines",
+        "Semantic Intelligence",
+        "LLM Decision Design",
+        "Risk-Aware AI",
+        "Revenue Intelligence"
+      ],
+      "impact": [
+        "📞 Millions of calls analysed using a shared speech intelligence approach",
+        "💰 ₹3.2 Cr annual savings from TME call verification alone",
+        "💰 ₹90L+ additional annual savings from IRO & CS efficiency improvements",
+        "📈 +9K leads/day unlocked from non-paid seller calls",
+        "🛡️ Reduced spam, false closures, and verification errors",
+        "🧠 Established a risk-aware blueprint for applying LLMs in speech analytics"
+      ],
+      "highlights": [
+        "Solving multiple business problems with one coherent architectural mindset",
+        "Designing evidence-first verification instead of black-box classification",
+        "Knowing when not to use an LLM",
+        "Balancing accuracy, explainability, cost, and scale"
       ]
     },
     {
