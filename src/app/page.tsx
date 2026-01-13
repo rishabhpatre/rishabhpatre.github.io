@@ -649,6 +649,16 @@ export default async function Home() {
           </div>
         </div>
       </footer>
+
+      {/* Sticky Case Study Button */}
+      <a
+        href="#showcase"
+        className="fixed bottom-6 right-6 z-50 inline-flex items-center gap-2 px-6 py-3 bg-primary text-white text-sm font-bold rounded-full shadow-lg hover:shadow-xl hover:bg-primary/90 transform hover:-translate-y-1 transition-all duration-300"
+        aria-label="View Case Studies"
+      >
+        View Case Studies
+        <span className="material-symbols-outlined text-[20px]">arrow_downward</span>
+      </a>
     </>
   );
 }
