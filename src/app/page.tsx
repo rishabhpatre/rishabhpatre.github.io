@@ -3,6 +3,7 @@ import fs from "fs/promises";
 import path from "path";
 import { PortfolioData } from "./portfolio";
 import { Github, Linkedin, Mail, Phone } from "lucide-react";
+import { StickyCaseStudyButton } from "../components/StickyButton/StickyCaseStudyButton";
 
 async function getData(): Promise<PortfolioData> {
   const dataPath = path.join(process.cwd(), "src/data/portfolio.json");
@@ -22,7 +23,7 @@ export default async function Home() {
               <a href="#" className="size-8 bg-primary hover:bg-[#a94a1d] rounded-lg flex items-center justify-center text-white transition-colors">
                 <span className="material-symbols-outlined text-xl">home</span>
               </a>
-              <span className="font-bold text-lg tracking-tight text-slate-900 dark:text-white">Product • AI • Scale</span>
+              <span className="font-bold text-lg tracking-tight text-slate-900 dark:text-white">Rishabh Patre</span>
             </div>
             <div className="hidden md:flex items-center gap-8">
               <a className="text-sm font-medium text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary transition-colors" href="#">About</a>
@@ -651,14 +652,8 @@ export default async function Home() {
       </footer>
 
       {/* Sticky Case Study Button */}
-      <a
-        href="#showcase"
-        className="fixed bottom-6 right-6 z-50 inline-flex items-center gap-2 px-6 py-3 bg-primary text-white text-sm font-bold rounded-full shadow-lg hover:shadow-xl hover:bg-primary/90 transform hover:-translate-y-1 transition-all duration-300"
-        aria-label="View Case Studies"
-      >
-        View Case Studies
-        <span className="material-symbols-outlined text-[20px]">arrow_downward</span>
-      </a>
+      {/* Sticky Case Study Button */}
+      <StickyCaseStudyButton />
     </>
   );
 }

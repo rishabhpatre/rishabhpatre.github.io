@@ -14,4 +14,4 @@
 :HL["/skechers-omnichannel.png","image"]
 :HL["/skechers-diagram.png","image"]
 :HL["/coco-group-1.jpg","image"]
-0:{"buildId":"Vkvbg5UB94aJ-fLZb2VIJ","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"0J6uB6a0hdxYT-AEA-cUu","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
