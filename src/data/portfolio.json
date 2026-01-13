@@ -178,7 +178,7 @@
       "id": "ai6",
       "code": "DV",
       "title": "Voice AI Verification",
-      "description": "Deployed an automated voice bot for verifying business listings at scale, ensuring data accuracy while reducing operational costs.",
+      "description": "Deployed an automated voice bot for verifying business listings at scale, delivering data accuracy and 3Cr+ annual savings.",
       "color": "bg-indigo-100 text-indigo-600",
       "badge": "bg-indigo-100 text-indigo-600",
       "type": "Justdial"
@@ -187,7 +187,7 @@
       "id": "ai8",
       "code": "CE",
       "title": "Content Enrichment",
-      "description": "Leveraged Generative AI to automatically enrich business profiles with detailed descriptions and keywords, improving SEO.",
+      "description": "Leveraged Generative AI to automatically enrich products and categories with detailed descriptions and specifications, improving SEO.",
       "color": "bg-pink-100 text-pink-600",
       "badge": "bg-pink-100 text-pink-600",
       "type": "Justdial"

@@ -652,7 +652,7 @@ export default async function Home() {
       </footer>
 
       {/* Sticky Case Study Button */}
-      {/* Sticky Case Study Button */}
+      {/* Sticky Case Study Button - Updated at 2026-01-14 T03:07 */}
       <StickyCaseStudyButton />
     </>
   );
