@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Rishabh Patre",
-    "role": "Senior Product Manager @ Justdial",
+    "role": "Senior Product Manager @ Justdial | Marketplaces & AI",
     "email": "rishabhbpatre@gmail.com",
     "phone": "+919511714436",
     "linkedin": "https://www.linkedin.com/in/rishabhpatre/",
@@ -9,19 +9,20 @@
     "avatar": "https://media.licdn.com/dms/image/v2/D5603AQEkR4BhAA_zJQ/profile-displayphoto-scale_400_400/B56ZuUlPncHkAg-/0/1767724357978?e=1769040000&v=beta&t=OgJeZTVZP05wSqIWU_UBlf5R7GWFaNkFR7cwqo9cOf0"
   },
   "summary": [
-    "Senior Product Manager with deep expertise in **AI-driven products** across B2C and B2B, currently leading AI initiatives at Justdial.",
-    "Proven track record of driving large-scale product growth, managing **100M+ monthly organic traffic** through strategic SEO, AEO/GEO, and data-driven funnel optimization.",
-    "Technical PM capable of bridging the gap between business goals and engineering, with hands-on experience in **LLMs, Agentic AI, and Python**.",
-    "Successful history of delivering complex **omnichannel and logistics solutions** for global brands including Swiggy, Nykaa, and Skechers."
+    "Senior Product Manager leading **AI-powered product strategy and execution** across B2B and B2C marketplaces at Justdial, bridging cutting-edge technology with measurable commercial value.",
+    "Product lead for **Verified Lead Bank**, architecting an end-to-end intelligence engine that combines conversational chatbots, multilingual voice bots, AI call-listening, and WhatsApp qualification workflows.",
+    "Driving **marketplace monetization and seller success**, scaling commercial offerings (**11,000+ B2B clients onboarded**, annual packages starting at **₹50,000**) while optimizing lead distribution, allocation priority, and seller ROI.",
+    "Proven track record of driving large-scale platform discovery, managing **100M+ monthly organic visits** through algorithmic SEO, GEO/AEO, and data-driven conversion funnels.",
+    "Extensive background delivering complex **0-to-1 omnichannel and logistics platforms** for enterprise brands including Swiggy, Nykaa, and Skechers."
   ],
   "experience": [
     {
       "id": "exp1",
-      "role": "Sr. Product Manager - AI and Growth Initiatives",
+      "role": "Sr. Product Manager - Verified Lead Bank & AI Platforms",
       "company": "Justdial Ltd.",
       "period": "Jan 2025 - Present",
       "status": "Present",
-      "description": "Leading Justdial’s AI platform strategy across Voice AI, LLMs, RAG, and AI-native discovery to drive revenue growth, cost efficiency, and large-scale automation"
+      "description": "Leading product strategy and execution for Verified Lead Bank and core AI platforms—orchestrating AI lead qualification, intelligent fulfilment, marketplace monetization, and seller lifecycle outcomes."
     },
     {
       "id": "exp2",
@@ -130,6 +131,24 @@
       "type": "Personal"
     },
     {
+      "id": "ai1",
+      "code": "VB",
+      "title": "Verified Lead Bank",
+      "description": "AI-powered product connecting multimodal lead qualification, intelligent fulfilment, and monetization for 11,000+ B2B marketplace sellers.",
+      "color": "bg-orange-100 text-orange-600",
+      "badge": "bg-orange-100 text-orange-600",
+      "type": "Justdial"
+    },
+    {
+      "id": "ai10",
+      "code": "SA",
+      "title": "Speech Analytics Intelligence",
+      "description": "ASR and semantic pipeline analyzing 15k+ daily calls across sales, QA, and spam, generating ₹4Cr+ annual cost savings and ~9k leads/day.",
+      "color": "bg-purple-100 text-purple-600",
+      "badge": "bg-purple-100 text-purple-600",
+      "type": "Justdial"
+    },
+    {
       "id": "ai2",
       "code": "VA",
       "title": "Voice AI Sales Agent",
@@ -178,7 +197,7 @@
       "id": "ai6",
       "code": "DV",
       "title": "Voice AI Verification",
-      "description": "Deployed an automated voice bot for verifying business listings at scale, delivering data accuracy and 3Cr+ annual savings.",
+      "description": "Deployed an automated voice bot for verifying business listings at scale, delivering 94% accuracy and ₹3Cr+ annual savings.",
       "color": "bg-indigo-100 text-indigo-600",
       "badge": "bg-indigo-100 text-indigo-600",
       "type": "Justdial"
@@ -238,18 +257,20 @@
   ],
   "rolesDetails": [
     {
-      "role": "Sr. Product Manager - AI and Growth Initiatives",
+      "role": "Sr. Product Manager - Verified Lead Bank & AI Platforms",
       "company": "Justdial Ltd.",
       "period": "Jan 2025 - Present",
       "points": [
-        "Owning and scaling **Justdial’s AI platform** across Voice, LLMs, RAG, and agentic workflows to drive growth, operational efficiency, and AI-native discovery.",
-        "Spearheaded **Voice AI** initiatives, delivering **₹3Cr+ in annual cost savings** and driving a **15% increase in sales appointment bookings**, directly impacting topline revenue.",
-        "Developing a proprietary **Model Context Protocol (MCP)** to integrate with frontier LLMs, enabling Justdial content and actions to be surfaced and driven from AI platforms.",
-        "Led speech analytics solutions across sales, customer support, QA, spam detection, and competitor intelligence, analyzing **15k+ calls per day**, resulting in **₹4Cr+ annual cost savings** and generating **~9k qualified leads per day**.",
-        "Leading **GEO and AEO initiatives** to optimize Justdial for AI platforms, enabling **5M+ daily AI crawls** and driving **~1M monthly traffic** from LLM-based discovery channels.",
-        "Shipped **Ask Anything** AI agent for Justdial, enabling users to ask complex, cross-category queries through a conversational interface.",
-        "Built **RAG-based knowledge systems** for HR and customer support, eliminating **~80% of repeated HR queries** and **~60% of repetitive CS queries**.",
-        "Enriched **2L+ products** by deploying a pipeline combining **RAG and LLM outputs**, significantly improving content quality and search relevance."
+        "Leading product strategy and execution for **Verified Lead Bank**, an AI-powered product connecting buyer qualification, lead verification, intelligent fulfilment, seller monetization, and retention.",
+        "Architected **multimodal AI lead qualification** combining conversational chatbots, multilingual voice bots, WhatsApp enrichment workflows, and AI call-listening systems to capture requirements, evaluate intent, and score leads in real time.",
+        "Engineered **intelligent lead distribution and fulfilment**, establishing dynamic allocation logic, lead-quality signals, and expiry strategies to optimize lead availability and eliminate shortages for underserved sellers.",
+        "Scaled the **Verified Lead Bank commercial offering** to **11,000+ B2B clients onboarded** (annual packages starting at **₹50,000**), bundling verified business leads with premium digital presence (360° photography, talking product videos, rich catalogues).",
+        "Leading product development for **B2C expansion** (*work in progress*), adapting lead qualification models, intent scoring, and fulfilment mechanics to consumer marketplace categories.",
+        "Designed **seller ROI measurement and health monitoring** frameworks, tracking fulfilment telemetry, lead utilization, and churn indicators to directly inform product and distribution decisions.",
+        "Spearheaded **Voice AI listing verification**, automating 2L+ monthly verification calls with 94% data accuracy, generating **₹3Cr+ in annual operational savings**.",
+        "Scaled **speech analytics solutions** across 15k+ calls per day (sales, customer support, QA, spam detection), delivering **₹4Cr+ annual cost savings** and unlocking **~9k qualified leads per day** from non-paid calls.",
+        "Led **GEO and AEO initiatives** optimizing Justdial for generative AI platforms, enabling **5M+ daily AI crawls** and driving **~1M monthly traffic** from LLM discovery channels.",
+        "Shipped the **Ask Anything** conversational concierge and deployed **RAG knowledge systems** eliminating ~80% of repetitive HR queries and ~60% of CS queries, alongside enriching 2L+ products via AI pipelines."
       ]
     },
     {
@@ -307,18 +328,18 @@
   ],
   "mantra": "Every curious question deserves a clear answer. By digging deeper, we build better.",
   "skills": [
+    "Verified Lead Bank",
+    "AI Lead Qualification",
+    "Intelligent Fulfilment",
+    "Marketplace Monetization",
+    "Seller ROI & Retention",
+    "Multimodal AI",
+    "Voice AI & Speech Analytics",
+    "Agentic AI & LLMs",
     "0 -> 1 Products",
-    "GEO",
-    "SEO",
-    "Agentic AI",
-    "Voice AI",
-    "NLP",
     "Product Strategy",
-    "Agile & Scrum",
-    "User Research",
-    "Data Analytics",
-    "Roadmapping",
-    "Stakeholder Mgmt"
+    "GEO & SEO Growth",
+    "Data Analytics"
   ],
   "education": [
     {
@@ -483,6 +504,93 @@
     }
   ],
   "projectShowcase": [
+    {
+      "title": "Verified Lead Bank — AI-Powered Lead Intelligence & Seller Growth",
+      "description": "Building an AI-powered product that transforms buyer enquiries into verified business opportunities by connecting conversational AI, lead intelligence, intelligent fulfilment and seller monetization. The product combines verified leads with premium digital presence solutions to improve seller value, with expansion into B2C in development.",
+      "image": "/voice-ai-verification-new.jpg",
+      "link": "#",
+      "tags": [
+        "Justdial",
+        "Featured Case Study",
+        "AI Marketplaces",
+        "Monetization"
+      ],
+      "stats": [
+        {
+          "value": "11,000+",
+          "label": "B2B Clients Onboarded"
+        },
+        {
+          "value": "₹50,000",
+          "label": "Starting Annual Package"
+        },
+        {
+          "value": "Multimodal AI",
+          "label": "Voice, Chat & Call-Listening"
+        },
+        {
+          "value": "In Dev",
+          "label": "B2C Expansion (WIP)"
+        }
+      ],
+      "tech": [
+        "Conversational AI Chatbots",
+        "Multilingual Voice Bots",
+        "AI Call-Listening Systems",
+        "WhatsApp Business API",
+        "Intent Scoring & Prioritization",
+        "Dynamic Allocation Engine",
+        "Seller Health & ROI Telemetry"
+      ],
+      "impact": [
+        "🤝 Onboarded 11,000+ B2B clients to the Verified Lead Bank commercial offering",
+        "💰 Annual commercial packages starting at ₹50,000, bundling verified leads with premium digital presence",
+        "🤖 Automated lead verification via conversational chat, voice bots, call-listening & WhatsApp workflows",
+        "⚡ Dynamic distribution and prioritization logic matching qualified demand with eligible sellers",
+        "📊 Established seller ROI tracking, health monitoring, and churn mitigation frameworks",
+        "🚀 Expansion into B2C lead qualification and marketplace fulfilment currently in product development"
+      ],
+      "highlights": [
+        "Leading product strategy and execution for an end-to-end AI qualification and fulfilment engine",
+        "Connecting multimodal AI capabilities directly with commercial monetization and tangible seller ROI",
+        "Designing intelligent distribution systems that balance seller demand with real-time lead availability",
+        "Packaging verified leads with rich digital presence assets (catalogues, 360° photography, talking videos)"
+      ],
+      "sections": [
+        {
+          "title": "1. Business Problem & Opportunity",
+          "content": "Traditional marketplace lead generation suffered from noisy buyer enquiries, low intent verification, and mismatched seller distribution. Sellers frequently experienced inconsistent lead relevance, while buyers faced delayed follow-ups. The opportunity was to reimagine lead generation into Verified Lead Bank: an AI-orchestrated qualification and distribution ecosystem that turns raw demand into verified commercial value."
+        },
+        {
+          "title": "2. Product Strategy & Commercial Proposition",
+          "content": "Positioned Verified Lead Bank as a premium, value-driven product connecting buyer verification with seller monetization. Rather than selling raw, unvetted contact details, the proposition bundles verified, high-intent buyer leads with digital presence solutions (premium catalogues, 360° photography, and talking product videos) on annual contracts starting at ₹50,000, successfully onboarding 11,000+ B2B clients."
+        },
+        {
+          "title": "3. AI-Powered Lead Qualification & Verification",
+          "content": "Deployed a multimodal qualification architecture that activates across multiple buyer touchpoints: conversational AI chatbots on web and app, multilingual voice bots that autonomously engage and verify buyers over phone calls, WhatsApp-based interactive enrichment flows, and AI call-listening systems that analyze incoming conversations for authentic requirement indicators."
+        },
+        {
+          "title": "4. Buyer-Intent Detection & Requirement Enrichment",
+          "content": "Built an intelligent extraction pipeline that parses unstructured conversations into structured requirement vectors—capturing specific product specifications, quantities, budget constraints, timeline urgency, and location preferences. Each enquiry is scored for commercial intent before being eligible for verification."
+        },
+        {
+          "title": "5. Intelligent Lead Scoring, Distribution & Fulfilment",
+          "content": "Engineered an algorithmic distribution and matching engine that allocates verified leads to relevant, eligible sellers in real time. The engine monitors seller capacity, geographical affinity, and category specialization while implementing dynamic lead-expiry logic and priority routing to proactively prevent lead starvation among underserved sellers."
+        },
+        {
+          "title": "6. Premium Seller Offering & Monetization",
+          "content": "Expanded the commercial scope beyond leads by integrating digital transformation assets into the seller package. Sellers receive verified business opportunities paired with automated digital cataloguing, professional 360° product showcases, and interactive talking videos—substantially increasing buyer engagement and seller credibility on the marketplace."
+        },
+        {
+          "title": "7. Seller ROI, Retention & Lifecycle Management",
+          "content": "Instituted seller health telemetry tracking lead consumption rates, response latencies, and conversion feedback signals. By correlating fulfilment performance with seller outcomes, the product identifies churn risks early and automatically triggers lead re-balancing and success interventions to protect seller ROI."
+        },
+        {
+          "title": "8. Business Impact & Future Roadmap",
+          "content": "Established Verified Lead Bank as a core growth pillar at Justdial with 11,000+ B2B client onboardings. Currently driving product development to expand Verified Lead Bank mechanics into B2C marketplace categories, creating scalable consumer qualification workflows and deepening conversational AI capabilities."
+        }
+      ]
+    },
     {
       "title": "Draftly - AI Writing Copilot",
       "description": "A context-aware writing and reply assistant that transforms selected text into clear writing, smart replies, and structured work artifacts — designed with intent-based actions, natural language control, and human-first UX.",

@@ -1,12 +1,12 @@
-:HL["/_next/static/chunks/558ec82b557932d1.css","style"]
+:HL["/_next/static/chunks/bc0d661738d06d3d.css","style"]
 :HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap","style"]
 :HL["https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap","style"]
-:HL["/draftly-showcase.png","image"]
+:HL["/voice-ai-verification-new.jpg","image"]
 :HL["/100m-visits.jpg","image"]
 :HL["/milestone-achievement.png","image"]
 :HL["/vishal-parikh-testimonial.png","image"]
-:HL["/voice-ai-verification-new.jpg","image"]
+:HL["/draftly-showcase.png","image"]
 :HL["/speech-analytics.jpg","image"]
 :HL["/multilingual-growth-new.jpg","image"]
 :HL["/vin-unified-commerce.png","image"]
@@ -14,4 +14,4 @@
 :HL["/skechers-omnichannel.png","image"]
 :HL["/skechers-diagram.png","image"]
 :HL["/coco-group-1.jpg","image"]
-0:{"buildId":"c5IwHw3t6lzdmiEomJ5FO","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"Kg0RXq57XLhQpDvjAPsvn","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

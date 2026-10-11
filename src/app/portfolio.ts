@@ -68,6 +68,10 @@ export interface PortfolioData {
         tech?: string[];
         tags?: string[];
         impact?: string[];
+        sections?: {
+            title: string;
+            content: string;
+        }[];
         quote?: {
             text: string;
             author: string;

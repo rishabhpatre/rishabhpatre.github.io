@@ -570,6 +570,28 @@ export default async function Home() {
                       </div>
                     )}
 
+                    {project.sections && (
+                      <div className="mb-6">
+                        <h4 className="text-sm font-bold text-slate-900 dark:text-white mb-3 flex items-center gap-2">
+                          <span className="material-symbols-outlined text-primary text-base">account_tree</span>
+                          Product Systems &amp; Deep Dive
+                        </h4>
+                        <div className="space-y-3">
+                          {project.sections.map((section, idx) => (
+                            <div key={idx} className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-100 dark:border-slate-700/50">
+                              <h5 className="text-xs font-bold text-slate-800 dark:text-slate-200 uppercase tracking-wide mb-1 flex items-center gap-1.5">
+                                <span className="size-1.5 rounded-full bg-primary shrink-0"></span>
+                                {section.title}
+                              </h5>
+                              <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+                                {section.content}
+                              </p>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
                     <div className="flex flex-wrap gap-4 mb-6">
                       {project.stats.map((stat, idx) => (
                         <div key={idx} className="flex">
@@ -586,7 +608,7 @@ export default async function Home() {
                       <div className="mb-8 bg-slate-50 dark:bg-slate-700/30 p-4 rounded-xl border border-slate-100 dark:border-slate-700 relative">
                         <span className="absolute top-4 left-4 material-symbols-outlined text-4xl text-slate-200 dark:text-slate-600 -z-10">format_quote</span>
                         <p className="text-sm text-slate-600 dark:text-slate-300 italic mb-3 relative z-10 leading-relaxed">
-                          "{project.quote.text}"
+                          &ldquo;{project.quote.text}&rdquo;
                         </p>
                         <div className="flex items-center gap-3">
                           <div className="w-8 h-8 rounded-full bg-slate-200 dark:bg-slate-600 flex items-center justify-center overflow-hidden">
