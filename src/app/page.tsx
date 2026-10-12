@@ -574,18 +574,33 @@ export default async function Home() {
                       <div className="mb-6">
                         <h4 className="text-sm font-bold text-slate-900 dark:text-white mb-3 flex items-center gap-2">
                           <span className="material-symbols-outlined text-primary text-base">account_tree</span>
-                          Product Systems &amp; Deep Dive
+                          Product Strategy &amp; Core Pillars
                         </h4>
                         <div className="space-y-3">
                           {project.sections.map((section, idx) => (
                             <div key={idx} className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800/50 border border-slate-100 dark:border-slate-700/50">
-                              <h5 className="text-xs font-bold text-slate-800 dark:text-slate-200 uppercase tracking-wide mb-1 flex items-center gap-1.5">
+                              <h5 className="text-xs font-bold text-slate-800 dark:text-slate-200 uppercase tracking-wide mb-1.5 flex items-center gap-1.5">
                                 <span className="size-1.5 rounded-full bg-primary shrink-0"></span>
                                 {section.title}
                               </h5>
-                              <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
-                                {section.content}
-                              </p>
+                              {section.bullets ? (
+                                <ul className="space-y-1.5">
+                                  {section.bullets.map((bullet, bIdx) => (
+                                    <li key={bIdx} className="flex items-start gap-2 text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+                                      <span className="text-primary font-bold mt-0.5">•</span>
+                                      <span>
+                                        {bullet.split('**').map((part, k) =>
+                                          k % 2 === 1 ? <strong key={k} className="font-semibold text-slate-800 dark:text-slate-200">{part}</strong> : part
+                                        )}
+                                      </span>
+                                    </li>
+                                  ))}
+                                </ul>
+                              ) : (
+                                <p className="text-xs text-slate-600 dark:text-slate-400 leading-relaxed">
+                                  {section.content}
+                                </p>
+                              )}
                             </div>
                           ))}
                         </div>

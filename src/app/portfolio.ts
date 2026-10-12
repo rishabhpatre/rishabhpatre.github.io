@@ -70,7 +70,8 @@ export interface PortfolioData {
         impact?: string[];
         sections?: {
             title: string;
-            content: string;
+            content?: string;
+            bullets?: string[];
         }[];
         quote?: {
             text: string;
