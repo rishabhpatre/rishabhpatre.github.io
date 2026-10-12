@@ -1,7 +1,7 @@
 {
   "profile": {
     "name": "Rishabh Patre",
-    "role": "Senior Product Manager @ Justdial | Marketplaces & AI",
+    "role": "Senior Product Manager @ Justdial | Leads & AI",
     "email": "rishabhbpatre@gmail.com",
     "phone": "+919511714436",
     "linkedin": "https://www.linkedin.com/in/rishabhpatre/",
@@ -9,20 +9,19 @@
     "avatar": "/avatar.jpg"
   },
   "summary": [
-    "I build products that **connect technology with business outcomes**. At Justdial, I lead product strategy and execution across **Verified Lead Bank**, AI-powered lead intelligence, marketplace fulfilment, seller monetization and retention.",
-    "Owning the complete seller lifecycle from a product perspective: **vendor targeting → onboarding → first lead → AI qualification → lead scoring and distribution → seller fulfilment and ROI → retention and renewals**.",
-    "Driving commercial and marketplace products across B2B and B2C, connecting **verified buyer intent** to verified business opportunities, seller value, and sustainable renewal economics.",
-    "Proven track record of scaling organic discovery and platform engagement, managing **100M+ monthly organic visits** through algorithmic SEO, GEO/AEO, and data-driven conversion funnels.",
-    "Extensive background delivering complex **0-to-1 omnichannel commerce and enterprise platforms** for leading brands including Swiggy, Nykaa, and Skechers."
+    "I specialise in building products that solve complex business problems, scale digital platforms, and drive measurable growth.",
+    "At Justdial, I lead product strategy across marketplace growth, **AI-powered lead lifecycle and seller retention**. One of my key initiatives is **Lead Bank, a commercial offering that has generated ₹135+ crore in business**, combining AI, intelligent lead distribution, and marketplace strategy to improve business outcomes. I've also led multiple AI initiatives across the company, spanning multilingual voice AI, conversational AI, speech analytics, and intelligent automation.",
+    "I've driven organic discovery across platforms generating **100M+ monthly organic visits** and delivered 0-to-1 and omnichannel commerce solutions for brands including **Swiggy, Nykaa, and Skechers**.",
+    "My work combines **product strategy, AI, growth, and commercial thinking** to build scalable products that create meaningful customer and business impact."
   ],
   "experience": [
     {
       "id": "exp1",
-      "role": "Sr. Product Manager - Verified Lead Bank & AI Platforms",
+      "role": "Senior Product Manager – Marketplace Growth & AI Products",
       "company": "Justdial Ltd.",
       "period": "Jan 2025 - Present",
       "status": "Present",
-      "description": "Leading product strategy and execution for Verified Lead Bank across vendor targeting, seller onboarding, buyer qualification, intelligent lead distribution, fulfilment, ROI and retention. Driving a multi-channel AI qualification ecosystem across voice bots, chatbots, WhatsApp and call-listening systems, while connecting lead intelligence with seller experience and commercial outcomes."
+      "description": "Leading product strategy and execution across marketplace growth, AI-powered lead generation and qualification, lead fulfilment, and seller acquisition and retention. Driving multiple AI initiatives across voice AI, conversational AI, speech analytics, and intelligent automation. Spearheading Lead Bank, a commercial offering that has generated ₹135+ crore in business, while improving marketplace efficiency and seller value."
     },
     {
       "id": "exp2",
@@ -257,19 +256,16 @@
   ],
   "rolesDetails": [
     {
-      "role": "Sr. Product Manager - Verified Lead Bank & AI Platforms",
+      "role": "Senior Product Manager – Marketplace Growth & AI Products",
       "company": "Justdial Ltd.",
       "period": "Jan 2025 - Present",
       "points": [
-        "Leading product strategy and execution for **Verified Lead Bank**, an AI-powered commercial product spanning vendor targeting, seller onboarding, buyer qualification, intelligent lead distribution, fulfilment, ROI, and retention.",
-        "Owning the entire seller lifecycle from a product perspective: **vendor targeting → onboarding → first lead → AI qualification → lead scoring & distribution → seller fulfilment & ROI → retention and renewals**.",
-        "Driving a **multi-channel AI qualification ecosystem** across voice bots, chatbots, WhatsApp bots, and call-listening systems to capture buyer intent, verify requirements, and determine qualification outcomes in real time.",
-        "Translating qualification signals into **intelligent lead scoring and distribution decisions**, managing prioritization, category-city matching, and dynamic expiry across Open Lead and Lead Bank workflows.",
-        "Designed the **Lead Bank seller UX and fulfilment telemetry**, identifying gaps between package activation, lead availability, and seller outcomes to address underserved accounts.",
-        "Scaled the commercial offering to **12,466 B2B vendors onboarded** (packages starting at **₹50,000**), bundling verified leads with 360° photography and talking product videos, with **B2C expansion in product development**.",
-        "Spearheaded **Voice AI listing verification**, automating 2L+ monthly verification calls with 94% data accuracy, generating **₹3Cr+ in annual operational savings**.",
-        "Scaled **speech analytics solutions** across 15k+ calls per day (sales, customer support, QA, spam detection), delivering **₹4Cr+ annual cost savings** and unlocking **~9k qualified leads per day** from non-paid calls.",
-        "Led **GEO and AEO initiatives** optimizing Justdial for generative AI platforms, enabling **5M+ daily AI crawls** and driving **~1M monthly traffic** from LLM discovery channels."
+        "Lead product strategy across marketplace growth, lead generation and fulfilment, seller acquisition, and retention, spanning the seller lifecycle from targeting and onboarding to lead delivery and renewals.",
+        "Spearhead **Lead Bank**, a commercial offering that has generated **₹135+ crore in business**, combining AI-led lead qualification and intelligent lead distribution to connect buyer demand with business sellers.",
+        "Lead multiple AI products across **multilingual voice AI, conversational AI, and speech analytics**, improving lead quality, automating operations, and unlocking new business opportunities.",
+        "Automated 2L+ monthly listing verification calls through **Voice AI**, achieving 94% data accuracy and **₹3Cr+ in annual operational savings**.",
+        "Scaled speech analytics across **1L+ daily calls**, delivering **₹4Cr+ in annual cost savings** and unlocking approximately **30K qualified leads per day** from non-paid calls.",
+        "Led **GEO/AEO initiatives** to improve Justdial's visibility across generative AI platforms, enabling 5M+ daily AI crawls and driving approximately **1M monthly visits** from LLM discovery channels."
       ]
     },
     {
@@ -327,18 +323,18 @@
   ],
   "mantra": "Every curious question deserves a clear answer. By digging deeper, we build better.",
   "skills": [
-    "Verified Lead Bank",
-    "AI Lead Qualification",
-    "Intelligent Fulfilment",
-    "Marketplace Monetization",
-    "Seller ROI & Retention",
-    "Multimodal AI",
-    "Voice AI & Speech Analytics",
-    "Agentic AI & LLMs",
-    "0 -> 1 Products",
     "Product Strategy",
-    "GEO & SEO Growth",
-    "Data Analytics"
+    "Product Discovery & Roadmapping",
+    "0-to-1 Product Development",
+    "Growth & Experimentation",
+    "Data-Driven Decision Making",
+    "AI/ML Product Management",
+    "Agentic AI & AI Agents",
+    "LLMs & Generative AI",
+    "Conversational AI & Voice AI",
+    "RAG & AI-powered Workflows",
+    "Monetization & Business Models",
+    "Cross-functional Leadership"
   ],
   "education": [
     {
@@ -504,28 +500,24 @@
   ],
   "projectShowcase": [
     {
-      "title": "Verified Lead Bank — End-to-End Product Strategy & Execution",
-      "description": "Leading product strategy and execution for Verified Lead Bank at Justdial, spanning vendor targeting, seller onboarding, AI-powered lead qualification, intelligent distribution, seller ROI and retention.",
+      "title": "Lead Bank — Marketplace Product Strategy & Growth",
+      "description": "Leading product strategy and execution for Justdial's Lead Bank offering, connecting buyer acquisition and AI-powered lead qualification with intelligent lead distribution, seller fulfilment, and commercial growth.",
       "image": "/voice-ai-verification-new.jpg",
       "link": "#",
       "tags": [
         "Justdial",
         "Featured Case Study",
-        "Commercial Product",
-        "AI & Marketplaces"
+        "Product Strategy",
+        "AI & Marketplace Growth"
       ],
       "stats": [
         {
+          "value": "₹135+ Cr",
+          "label": "Business Generated"
+        },
+        {
           "value": "12,466",
-          "label": "B2B Vendors Onboarded"
-        },
-        {
-          "value": "₹158.5 Cr",
-          "label": "Signup Budget"
-        },
-        {
-          "value": "₹6.42 Cr",
-          "label": "Collections"
+          "label": "Vendors on Dashboard"
         },
         {
           "value": "₹50,000",
@@ -533,75 +525,74 @@
         }
       ],
       "tech": [
-        "Conversational AI Chatbots",
-        "Multilingual Voice Bots",
-        "AI Call-Listening Systems",
-        "WhatsApp Bots",
-        "Intent Scoring & Prioritization",
-        "Dynamic Distribution Engine",
-        "Fulfilment & Seller Telemetry"
+        "Multilingual Voice AI",
+        "Conversational AI & Chatbots",
+        "AI Call Listening",
+        "Lead Scoring & Prioritization",
+        "Intelligent Lead Distribution",
+        "Seller Fulfilment Analytics"
       ],
       "impact": [
-        "🤝 12,466 B2B vendors onboarded to the Verified Lead Bank commercial offering",
-        "💼 ₹158.5 Cr signup budget and ₹6.42 Cr collections reported across the campaign dashboard",
-        "💰 Commercial packages starting at ₹50,000/year, bundling verified leads with premium digital presence",
-        "🤖 Multi-channel qualification ecosystem capturing buyer intent via voice bots, call-listening, chatbots, and WhatsApp",
-        "⚡ Intelligent lead scoring and allocation connecting verified buyer demand to eligible sellers with dynamic expiry",
-        "🔄 Expansion of Verified Lead Bank into B2C marketplace categories actively in product development"
+        "💰 Scaled Lead Bank into a commercial offering generating ₹135+ crore in business",
+        "🤖 Connected AI-powered buyer qualification across voice bots, chatbots, WhatsApp, and AI call-listening systems",
+        "🎯 Built product workflows spanning seller targeting, onboarding, lead qualification, distribution, and fulfilment",
+        "📈 Combined verified leads with premium catalogues, 360° photography, and talking product videos in annual packages starting at ₹50,000",
+        "🔄 Connected lead availability and seller outcomes with retention and renewal initiatives",
+        "🚀 Driving product development for expansion into B2C categories"
       ],
       "highlights": [
-        "Leading product strategy and execution for the complete Verified Lead Bank campaign across the full seller lifecycle",
-        "Connecting multi-channel AI qualification directly with commercial monetization, lead fulfilment, and seller ROI",
-        "Designing algorithmic allocation rules that balance category-city demand with real-time seller availability",
-        "Defining product workflows, eligibility criteria, and operational dashboards in cross-functional collaboration"
+        "Owned product strategy across the seller lifecycle, from market selection and onboarding to lead delivery, seller value, and retention",
+        "Connected AI-led lead qualification with commercial strategy and marketplace fulfilment",
+        "Defined lead scoring, prioritization, category-city matching, and dynamic expiry rules to allocate buyer demand across eligible sellers",
+        "Worked cross-functionally with engineering, operations, and business teams to translate marketplace problems into product workflows and measurable outcomes"
       ],
       "sections": [
         {
-          "title": "01. Vendor Targeting & Market Selection",
+          "title": "01. Market & Seller Targeting",
           "bullets": [
-            "**Category & City Prioritization**: Analyzed marketplace liquidity, buyer demand density, and seller concentration to identify top-performing categories and high-potential regional markets.",
-            "**Eligibility & Prioritization Framework**: Defined product-led criteria for vendor eligibility, segmenting accounts by catalogue readiness and historical fulfilment capacity to focus targeting where package ROI is highest.",
-            "**Product-Led GTM Alignment**: Collaborated with business teams to institutionalize eligibility guardrails, preventing low-liquidity category signups and maximizing initial lead availability."
+            "**Category & City Prioritization:** Evaluated buyer demand, marketplace liquidity, and seller coverage to identify high-potential categories and markets.",
+            "**Seller Eligibility:** Defined product-led targeting criteria using catalogue readiness, seller coverage, and fulfilment potential.",
+            "**Product-Led Go-to-Market:** Aligned targeting and activation with market readiness to improve the likelihood of sellers receiving relevant leads after onboarding."
           ]
         },
         {
-          "title": "02. Seller Onboarding & Time to First Lead",
+          "title": "02. Seller Onboarding & Activation",
           "bullets": [
-            "**Streamlined Activation Journey**: Mapped and redesigned the product flow from package signup to active state, identifying onboarding drop-offs and operational friction points.",
-            "**Catalogue Readiness Workflows**: Built automated nudges and assisted workflows to rapidly collect product details, 360° photography assets, and specifications needed for lead matching.",
-            "**Shortening Time-to-First-Lead**: Instrumented onboarding telemetry to track activation velocity, systematically reducing the lag between package payment and the seller receiving their first qualified lead."
+            "**Activation Journey:** Mapped the journey from package signup to activation, identifying friction between purchase and becoming ready to receive leads.",
+            "**Catalogue Readiness:** Coordinated product workflows for product information, specifications, 360° photography, and talking product videos required for a stronger digital presence.",
+            "**Time to First Lead:** Focused on reducing the gap between seller activation and the delivery of the first relevant lead."
           ]
         },
         {
-          "title": "03. AI-Powered Verified Leads Engine",
+          "title": "03. AI-Powered Lead Qualification",
           "bullets": [
-            "**Multi-Channel Qualification Ecosystem**: Architected end-to-end buyer qualification orchestrated across conversational AI chatbots, multilingual voice bots, WhatsApp bots, and AI call-listening systems.",
-            "**Intent Extraction & Requirement Enrichment**: Converted unstructured multi-channel buyer enquiries into structured requirement schemas (specifications, quantity, timeline urgency, budget, location).",
-            "**Automated Verification & Fraud Filtering**: Evaluated conversation quality, intent confidence, and contact validity in real time to filter noise and flag high-conviction business opportunities."
+            "**Multi-Channel AI:** Drove product workflows across multilingual voice bots, conversational chatbots, WhatsApp bots, and AI call-listening systems.",
+            "**Requirement Extraction:** Converted buyer conversations into structured requirements, including product specifications, quantity, budget, location, and purchase timeline where available.",
+            "**Lead Verification:** Used buyer intent and requirement signals to distinguish actionable enquiries from low-quality or irrelevant leads."
           ]
         },
         {
           "title": "04. Lead Scoring & Distribution",
           "bullets": [
-            "**Dynamic Scoring Engine**: Translated multi-signal qualification data into a composite lead score reflecting purchase urgency, budget viability, and requirement precision.",
-            "**Intelligent Allocation Logic**: Engineered matching algorithms that allocate leads to eligible sellers based on category relevance, geographical proximity, response speed, and available quota balance.",
-            "**Dual-Workflow Fulfilment**: Balanced distribution across Open Lead (broader marketplace broadcast) and exclusive Lead Bank (high-intent, verified allocations) while applying dynamic expiry to maintain freshness."
+            "**Lead Scoring:** Combined qualification signals and requirement quality to prioritize leads based on their potential value.",
+            "**Seller Matching:** Defined allocation rules using category relevance, city coverage, seller eligibility, and lead availability.",
+            "**Distribution & Expiry:** Managed distribution across Open Lead and Lead Bank workflows, using prioritization and dynamic expiry to balance lead freshness with seller access."
           ]
         },
         {
-          "title": "05. Lead Bank UX, Fulfilment & Seller ROI",
+          "title": "05. Fulfilment & Seller Experience",
           "bullets": [
-            "**Seller-Facing Lead Bank Interface**: Designed intuitive web and mobile interfaces for sellers to review verified buyer requirements, inspect qualification context, and initiate immediate follow-ups.",
-            "**Lead Availability & Shortage Detection**: Created supply-demand tracking dashboards to detect underserved sellers and category-city lead deficits early.",
-            "**Fulfilment Telemetry**: Instrumented seller engagement signals (lead opens, call connect rates, rejection feedback) to continuously identify operational gaps between package activation and seller outcomes."
+            "**Lead Availability:** Monitored gaps between seller package activation and actual lead delivery to identify underserved accounts.",
+            "**Fulfilment Analytics:** Used lead availability, seller engagement, and fulfilment signals to identify bottlenecks and prioritize product improvements.",
+            "**Seller Value Realization:** Connected lead distribution and seller experience with the broader goal of helping sellers derive value from their packages."
           ]
         },
         {
-          "title": "06. Retention & Commercial Value",
+          "title": "06. Retention & Commercial Growth",
           "bullets": [
-            "**Seller Health & ROI Monitoring**: Developed health scores combining lead consumption rates, response times, and conversion outcomes to predict seller dissatisfaction and churn risk.",
-            "**Value-Bundled Commercial Proposition**: Tied lead delivery with high-value digital presence (premium catalogues, 360° photography, talking product videos) on annual contracts starting at ₹50,000.",
-            "**Roadmap & B2C Expansion**: Leveraged seller feedback to refine matching algorithms and pricing tiers, with B2C lead qualification expansion currently in product development as the next growth stage."
+            "**Seller Health & Retention:** Used fulfilment and engagement signals to identify potential dissatisfaction and opportunities to improve renewal outcomes.",
+            "**Commercial Proposition:** Combined verified leads with premium catalogues, 360° photography, and talking product videos in annual packages starting at ₹50,000.",
+            "**B2C Expansion:** Driving product development to extend lead qualification and marketplace capabilities into B2C categories."
           ]
         }
       ]
