@@ -143,7 +143,7 @@
       "id": "ai10",
       "code": "SA",
       "title": "Speech Analytics Intelligence",
-      "description": "ASR and semantic pipeline analyzing 15k+ daily calls across sales, QA, and spam, generating ₹4Cr+ annual cost savings and ~9k leads/day.",
+      "description": "ASR and semantic pipeline analyzing 1L+ daily calls across sales, QA, and spam, generating ₹4Cr+ annual cost savings and ~30k leads/day.",
       "color": "bg-purple-100 text-purple-600",
       "badge": "bg-purple-100 text-purple-600",
       "type": "Justdial"
@@ -549,7 +549,7 @@
       ],
       "sections": [
         {
-          "title": "01. Market & Seller Targeting",
+          "title": "Market & Seller Targeting",
           "bullets": [
             "**Category & City Prioritization:** Evaluated buyer demand, marketplace liquidity, and seller coverage to identify high-potential categories and markets.",
             "**Seller Eligibility:** Defined product-led targeting criteria using catalogue readiness, seller coverage, and fulfilment potential.",
@@ -557,7 +557,7 @@
           ]
         },
         {
-          "title": "02. Seller Onboarding & Activation",
+          "title": "Seller Onboarding & Activation",
           "bullets": [
             "**Activation Journey:** Mapped the journey from package signup to activation, identifying friction between purchase and becoming ready to receive leads.",
             "**Catalogue Readiness:** Coordinated product workflows for product information, specifications, 360° photography, and talking product videos required for a stronger digital presence.",
@@ -565,7 +565,7 @@
           ]
         },
         {
-          "title": "03. AI-Powered Lead Qualification",
+          "title": "AI-Powered Lead Qualification",
           "bullets": [
             "**Multi-Channel AI:** Drove product workflows across multilingual voice bots, conversational chatbots, WhatsApp bots, and AI call-listening systems.",
             "**Requirement Extraction:** Converted buyer conversations into structured requirements, including product specifications, quantity, budget, location, and purchase timeline where available.",
@@ -573,7 +573,7 @@
           ]
         },
         {
-          "title": "04. Lead Scoring & Distribution",
+          "title": "Lead Scoring & Distribution",
           "bullets": [
             "**Lead Scoring:** Combined qualification signals and requirement quality to prioritize leads based on their potential value.",
             "**Seller Matching:** Defined allocation rules using category relevance, city coverage, seller eligibility, and lead availability.",
@@ -581,7 +581,7 @@
           ]
         },
         {
-          "title": "05. Fulfilment & Seller Experience",
+          "title": "Fulfilment & Seller Experience",
           "bullets": [
             "**Lead Availability:** Monitored gaps between seller package activation and actual lead delivery to identify underserved accounts.",
             "**Fulfilment Analytics:** Used lead availability, seller engagement, and fulfilment signals to identify bottlenecks and prioritize product improvements.",
@@ -589,7 +589,7 @@
           ]
         },
         {
-          "title": "06. Retention & Commercial Growth",
+          "title": "Retention & Commercial Growth",
           "bullets": [
             "**Seller Health & Retention:** Used fulfilment and engagement signals to identify potential dissatisfaction and opportunities to improve renewal outcomes.",
             "**Commercial Proposition:** Combined verified leads with premium catalogues, 360° photography, and talking product videos in annual packages starting at ₹50,000.",
